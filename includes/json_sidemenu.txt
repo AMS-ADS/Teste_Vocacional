@@ -1,0 +1,34 @@
+[
+  {
+    "id": "i100",
+    "descricao": "Usuários",
+    "icone": "fa-address-card",
+    "endpoint": "views/admin/usuarios/usuario.php",
+    "permissao": "",
+    "cor": "primary"
+  },
+  {
+    "id": "i800",
+    "descricao": "Perguntas",
+    "icone": "fa-circle-plus",
+    "endpoint": "views/admin/perguntas/pergunta.php",
+    "permissao": "",
+    "cor": "purple"
+  },
+  {
+    "id": "i700",
+    "descricao": "Cursos",
+    "icone": "fa-file-circle-plus",
+    "endpoint": "views/admin/cursos/curso.php",
+    "permissao": "",
+    "cor": "danger"
+  },
+  {
+    "id": "i701",
+    "descricao": "Home",
+    "icone": "fa-house",
+    "endpoint": "views/admin/home.php",
+    "permissao": "",
+    "cor": "danger"
+  }
+]
